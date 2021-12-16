@@ -1,3 +1,3 @@
 # some-algorithm
-Các thuật toán xử lý mảng
+Các thuật toán xử lý
 Thôi nha bye !
